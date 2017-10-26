@@ -12,3 +12,5 @@ Multi-discipline product manager specializing in creative design and software de
 - Business Development
 
 
+[Scott's LinkedIn Profile](https://www.linkedin.com/in/srgoehringer/)
+[Scott's Twitter Profile](https://twitter.com/srgoehringer)
