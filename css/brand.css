@@ -48,7 +48,9 @@ section {
 @media (min-width: 768px) {
   section {
     padding: 150px 0; } 
-
+  header.masthead {
+    height: 100vh;
+    max-height: 375px;
   }
 
 .btn {
