@@ -11,6 +11,4 @@ Multi-discipline product manager specializing in creative design and software de
 - Strategic Business Planning
 - Business Development
 
-
-[Scott's LinkedIn Profile](https://www.linkedin.com/in/srgoehringer/)
-[Scott's Twitter Profile](https://twitter.com/srgoehringer)
+Find Scott Online: [LinkedIn](https://www.linkedin.com/in/srgoehringer/) - [Twitter](https://twitter.com/srgoehringer)
