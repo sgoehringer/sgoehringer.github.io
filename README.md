@@ -1,6 +1,6 @@
 # Scott Goehringer 
 
-[scottgoehringer.com](https://www.scottgoehringer.com)
+[scottgoehringer.com](http://www.scottgoehringer.com)
 
 ## PRODUCT MANAGEMENT & LEADERSHIP
 Multi-discipline product manager specializing in creative design and software development with applied business and technology management acumen. I enjoy understanding the ‘why’, ‘what’ and ‘when’ of a product and executing a plan that requires leadership and the collaboration of cross-functional product development teams. 
